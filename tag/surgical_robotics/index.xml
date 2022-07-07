@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>surgical_robotics | David E. Usevitch, Ph.D.</title>
+    <link>https://dusevitch.github.io/tag/surgical_robotics/</link>
+      <atom:link href="https://dusevitch.github.io/tag/surgical_robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>surgical_robotics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dusevitch.github.io/media/icon_huf51d097fdf06809673d7f9aab019f389_3342_512x512_fill_lanczos_center_3.png</url>
+      <title>surgical_robotics</title>
+      <link>https://dusevitch.github.io/tag/surgical_robotics/</link>
+    </image>
+    
+    <item>
+      <title>Development of a Novel Microsurgery Manipulator</title>
+      <link>https://dusevitch.github.io/project/minimal_microsurgery_manipulator/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/minimal_microsurgery_manipulator/</guid>
+      <description>&lt;p&gt;This ongoing project examines the use of a minimal-designed microsurgery manipulator for various surgical tasks. It involved full design of a robot and handheld mechatronic system for control, material science research for optimal manipulator performance, and exploration of applications in the Orthopedic, ENT, and Opthalmalogic spaces.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Development for Infrustructure of Robot Drilling Tool</title>
+      <link>https://dusevitch.github.io/project/ros_ur_package/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/ros_ur_package/</guid>
+      <description>&lt;p&gt;A continuum snake robot for drilling was developed previously in the BIGSS lab. This project continued the software high-level and mid-level control development for the UR interface using Python and C++. The JHU CISST library was heavily integrated to move the arm under position, velocity, and various other types of control, and some contraints were implemented to guide the robot along simple trajectories. Basic simulations were performed in ROS/Gazebo/RVIZ configurations for validation and some tested on a physical UR5 robot.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Magnetic Guidance of Cochlear Implants into Guinea Pigs</title>
+      <link>https://dusevitch.github.io/project/guinea_pig_surgery/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/guinea_pig_surgery/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Analysis of Sensor Data from Handheld Drills</title>
+      <link>https://dusevitch.github.io/project/handheld_smart_drill/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/handheld_smart_drill/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Examining the Basilar Membrane with Robotically Inserted CI Electrodes</title>
+      <link>https://dusevitch.github.io/project/basilar_membrane/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/basilar_membrane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic Manipulation of Microrobot Swarms</title>
+      <link>https://dusevitch.github.io/project/microrobot_swarm/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/microrobot_swarm/</guid>
+      <description>&lt;p&gt;Swarms of magnetic microrobots have previously been proposed to achieve various tasks inside of thehuman body. We are interested in the optimal guidance of a microrobot swarm from an initial state to a final goal state using an array of eight electromagnets generating magnetic dipole fields. We compare the convergence, computation complexity, and time-to-target time for moving the microrobots to the correct configuration using two different methods of guidance previously suggested. The first method guides the centroid and spread or deviation of the swarm to a final centroid location and spread. The second method divides the workspace into voxels and guides the microrobots from the initial voxel density state to a final goal voxel density. Both methods yield comparable restuls, however the voxel method outperforms the centroid method in terms of convergence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterization of Patient Head Motion in Vitreoretinal Surgery</title>
+      <link>https://dusevitch.github.io/project/imu_eye_tracking/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/imu_eye_tracking/</guid>
+      <description>&lt;p&gt;During eye surgery, the patient’s head moves due to natural processes such as breathing and snoring, and the surgeon must compensate for this movement to the best of their ability. However, such movement limits the precision of the surgeon and thus the difficulty of the procedures that can be accomplished. A variety of robotic systems are being developed to improve surgical precision, and these systems will also need to address this patient movement. However, very little quantitative data is currently available regarding patient head movement during eye surgery. This project explored methods to address these issues using EKF algorithms from data collected from a single inertial measurement unit (IMU) fit to the patient&amp;rsquo;s head.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,15 +4,63 @@
   
   
   <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/ambf_irb_tests/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/tag/design/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/minimal_microsurgery_manipulator/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/fea_analysis/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/tag/other/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/tag/software/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/tag/surgical_robotics/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/tags/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/nursetech_clip/</loc><lastmod>2022-05-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/publication-type/1/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/publication/dissertation/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/publication_types/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/publication/</loc><lastmod>2022-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/ros_ur_package/</loc><lastmod>2021-12-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/pancake_robot/</loc><lastmod>2021-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/instabar/</loc><lastmod>2021-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/guinea_pig_surgery/</loc><lastmod>2021-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/tag/mechatronics/</loc><lastmod>2021-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/handheld_smart_drill/</loc><lastmod>2021-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/publication-type/2/</loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/2/</loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/publication/gp_estimation/</loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -20,7 +68,7 @@
   <url>
     <loc></loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/gp_estimation/</loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/publication/basilar_membrane/</loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -28,50 +76,46 @@
   <url>
     <loc></loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/basilar_membrane/</loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc></loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/</loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2021-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/basilar_membrane/</loc><lastmod>2020-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2020-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/dissertation/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/project/trac/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/trac_paper/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/publication/trac_paper/</loc><lastmod>2020-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/project/microrobot_swarm/</loc><lastmod>2018-12-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dusevitch.github.io/project/imu_eye_tracking/</loc><lastmod>2018-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://dusevitch.github.io/project/mechatronics_robot/</loc><lastmod>2016-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/compliant_paddle/</loc><lastmod>2016-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/pipsqueak_engine/</loc><lastmod>2015-12-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/data_protection_cad/</loc><lastmod>2015-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dusevitch.github.io/project/toy_plane/</loc><lastmod>2013-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>

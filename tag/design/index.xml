@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design | David E. Usevitch, Ph.D.</title>
+    <link>https://dusevitch.github.io/tag/design/</link>
+      <atom:link href="https://dusevitch.github.io/tag/design/index.xml" rel="self" type="application/rss+xml" />
+    <description>design</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dusevitch.github.io/media/icon_huf51d097fdf06809673d7f9aab019f389_3342_512x512_fill_lanczos_center_3.png</url>
+      <title>design</title>
+      <link>https://dusevitch.github.io/tag/design/</link>
+    </image>
+    
+    <item>
+      <title>Development of a Novel Microsurgery Manipulator</title>
+      <link>https://dusevitch.github.io/project/minimal_microsurgery_manipulator/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/minimal_microsurgery_manipulator/</guid>
+      <description>&lt;p&gt;This ongoing project examines the use of a minimal-designed microsurgery manipulator for various surgical tasks. It involved full design of a robot and handheld mechatronic system for control, material science research for optimal manipulator performance, and exploration of applications in the Orthopedic, ENT, and Opthalmalogic spaces.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design &amp; Prototyping of a Medical Cord/Tube Organization Device</title>
+      <link>https://dusevitch.github.io/project/nursetech_clip/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/nursetech_clip/</guid>
+      <description>&lt;p&gt;Cord organization in the bedside hospital setting can be a particular nuisance and take a lot of time and energy from visiting nurses. This project built a startup company (NurseTech) and full business plan around a new design for a plastic-injection molded clip which easily and simply organizes medical tubes and cords which are generally attached to the patient.&lt;/p&gt;
+&lt;p&gt;The NurseTech team participated in the NSF/JHU 2022 Winter Market Research I-CORPS program, and won 2nd place in the Johns Hopkins FFU Medical Device Pitch competition. They raised over $15k in funding for development of their product. They also secured a provisional patent for their technology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design and Rapid Prototyping of Custom Robot</title>
+      <link>https://dusevitch.github.io/project/pancake_robot/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/pancake_robot/</guid>
+      <description>&lt;p&gt;Ongoing personal mechatronics project. To be updated soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CAD Design and Machining of a Small Air Engine</title>
+      <link>https://dusevitch.github.io/project/pipsqueak_engine/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/pipsqueak_engine/</guid>
+      <description>&lt;p&gt;A small air engine was designed in a university-instructed CAD class, between David and another student. The engine was designed in Autodesk Inventor.&lt;/p&gt;
+&lt;p&gt;A similar air engine was then manufactured by David and another student from raw materials (lathe, mill, band saw, etc) using traditional machining methods. The team won the best presentation award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toy Plane Design</title>
+      <link>https://dusevitch.github.io/project/toy_plane/</link>
+      <pubDate>Thu, 15 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/toy_plane/</guid>
+      <description>&lt;p&gt;CAD design of a toy plane inspired by the P-51D Mustang. Designed in Autodesk Inventor.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

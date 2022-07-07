@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software | David E. Usevitch, Ph.D.</title>
+    <link>https://dusevitch.github.io/tag/software/</link>
+      <atom:link href="https://dusevitch.github.io/tag/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>software</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dusevitch.github.io/media/icon_huf51d097fdf06809673d7f9aab019f389_3342_512x512_fill_lanczos_center_3.png</url>
+      <title>software</title>
+      <link>https://dusevitch.github.io/tag/software/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of Navigation Cues in Bone Drilling Simulation</title>
+      <link>https://dusevitch.github.io/project/ambf_irb_tests/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/ambf_irb_tests/</guid>
+      <description>&lt;p&gt;Various cues provided to the surgeon may improve surgical navigation, especially in medical drilling/milling tasks. This work includes a human-subject user study in which we explore the effects of novel cues and their combinations on the effect of achieving proper laminectomy drilling accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Development for Infrustructure of Robot Drilling Tool</title>
+      <link>https://dusevitch.github.io/project/ros_ur_package/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/ros_ur_package/</guid>
+      <description>&lt;p&gt;A continuum snake robot for drilling was developed previously in the BIGSS lab. This project continued the software high-level and mid-level control development for the UR interface using Python and C++. The JHU CISST library was heavily integrated to move the arm under position, velocity, and various other types of control, and some contraints were implemented to guide the robot along simple trajectories. Basic simulations were performed in ROS/Gazebo/RVIZ configurations for validation and some tested on a physical UR5 robot.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Translational and Rotational Arrow Cues (TRAC) Navigation Method for Manual Alignment Tasks</title>
+      <link>https://dusevitch.github.io/project/trac/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/trac/</guid>
+      <description>&lt;p&gt;Many tasks in image-guided surgery require a clinician to manually position an instrument in space, with respect to a patient, with five or six degrees of freedom (DOF). In this project, we developed a method of visually communicating navigation instructions using translational and rotational arrow cues (TRAC) defined in an objectcentric frame, while displaying a single principal view that approximates the human’s egocentric view of the physical object. We found that subjects can achieve 1 mm and 1 degree accuracy using the TRAC method with a median completion time of less than 20 seconds.&lt;/p&gt;
+&lt;p&gt;This software work has been patented, and the work was presented at the 2018 Hamlyn Symposium on Medical Robotics in London, and in ACM Transactions on Applied Perception.&lt;/p&gt;
+&lt;p&gt;We hope to release a software package for this project soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Protection Methods in CAX Applications</title>
+      <link>https://dusevitch.github.io/project/data_protection_cad/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/data_protection_cad/</guid>
+      <description>&lt;p&gt;This work presented a method for multi-user CAx editing includes receiving a model of an engineering object, receiving a request to present a rendering of the model of the engineering object to a user on a display, determining viewing privileges of the user for the model of the engineering object, and rendering only those portions of the model of the engineering object on the display for which the user has viewing privileges.&lt;/p&gt;
+&lt;p&gt;Among large corportations outsourcing various portions of CAD design projects (e.g. engine design for Pratt &amp;amp; Whitney) where components of the design contain sensitive or perhaps even Top Secret information, companies might wish to collaboratively work on parts simultaneously (multi-user CAx) while hiding these privet portions to users with lower priviledges. This was an interesting thought experiement on how to conceal information and what kinds of information might want to be concealed.&lt;/p&gt;
+&lt;p&gt;This work was submitted as a patent application.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

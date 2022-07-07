@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mechatronics | David E. Usevitch, Ph.D.</title>
+    <link>https://dusevitch.github.io/tag/mechatronics/</link>
+      <atom:link href="https://dusevitch.github.io/tag/mechatronics/index.xml" rel="self" type="application/rss+xml" />
+    <description>mechatronics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dusevitch.github.io/media/icon_huf51d097fdf06809673d7f9aab019f389_3342_512x512_fill_lanczos_center_3.png</url>
+      <title>mechatronics</title>
+      <link>https://dusevitch.github.io/tag/mechatronics/</link>
+    </image>
+    
+    <item>
+      <title>Design and Rapid Prototyping of Custom Robot</title>
+      <link>https://dusevitch.github.io/project/pancake_robot/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/pancake_robot/</guid>
+      <description>&lt;p&gt;Ongoing personal mechatronics project. To be updated soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Instant Food Bar (Granola Bar) Machine</title>
+      <link>https://dusevitch.github.io/project/instabar/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/instabar/</guid>
+      <description>&lt;p&gt;In just 8 months a completely novel concept for an automated food bar machine was designed, prototyped multiple times, and built to achieve full automation of custom food bar creation in under 1 minute. David operated as the Mechatronics lead on a very small team, designing the electrical components and controls, as well as building the first physical prototype.&lt;/p&gt;
+&lt;p&gt;A patent was also obtained for this device.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated Ping Pong Shooting Robot</title>
+      <link>https://dusevitch.github.io/project/mechatronics_robot/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/mechatronics_robot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

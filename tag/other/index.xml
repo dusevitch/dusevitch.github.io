@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>other | David E. Usevitch, Ph.D.</title>
+    <link>https://dusevitch.github.io/tag/other/</link>
+      <atom:link href="https://dusevitch.github.io/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>other</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dusevitch.github.io/media/icon_huf51d097fdf06809673d7f9aab019f389_3342_512x512_fill_lanczos_center_3.png</url>
+      <title>other</title>
+      <link>https://dusevitch.github.io/tag/other/</link>
+    </image>
+    
+    <item>
+      <title>FEA Projects</title>
+      <link>https://dusevitch.github.io/project/fea_analysis/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/fea_analysis/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design and Comparison of Variable-Stiffness Compliant Joints for Haptic Devices</title>
+      <link>https://dusevitch.github.io/project/compliant_paddle/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://dusevitch.github.io/project/compliant_paddle/</guid>
+      <description>&lt;p&gt;Haptic interfaces or devices are computer-controlled robotic systems that seek to replicate the touch experience of a human user1. The purpose of this research is to develop a viable variable-stiffness compliant joint for haptic interfaces that eliminate rotation joints or screw mechanisms that induce friction, increase weight and cost, and make devices more complex and prone to failure. The resulting compliant haptic device was designed with both affordability and dependability in mind, and hopes to result in research knowledge leading to realistic touch experiences as users interact with virtual or remote environments. The joint may also be applicable in other common future applications such as robotic arms and legs, rehabilitation robots, and haptic educational tools.&lt;/p&gt;
+&lt;p&gt;Model 3 showed the most promise according to FEA output, combining ease of manufacturing and proof of haptic feedback. It was created using a triangular meshing technique with 2560 nodes. There was an 8 N increase of the resultant force when the device was compared with an arm movement at rest to an arm movement of 1.27 cm (0.5 in) when it’s lower legs were displaced by 2 cm. This model was selected for the physical testing.&lt;/p&gt;
+&lt;p&gt;Tests for the fixture was performed by compressing the lower arms of the device together at intervals of 4, 3.5, and 3 in. This was to mimic the same motion as might occur if the legs were attached to a spinning motor, solenoid, etc. The main arm was then moved until the top point was displaced horizontally by 0.5 in. The force for physical displacement was then recorded and results can be seen in the figure below. Additional iterations were performed, but not included in this report. We are able to see that the physical device saw an overall 5.8 N resultant force increase between the positions tested.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
